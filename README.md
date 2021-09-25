@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)\
+  - [Continued development](#continued-development)
   - [Author](#author)
 
 
@@ -21,15 +21,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./Screenshot 2021-09-25 at 1.56.31 PM.png)
 
- 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/moonbansal/profile-card-component)
-- Live Site URL: [](https://profile-card-component-sigma-five.vercel.app)
+- Solution URL: [Solution](https://github.com/moonbansal/profile-card-component)
+- Live Site URL: [Live Site](https://profile-card-component-sigma-five.vercel.app)
 
 
 ### Built with
