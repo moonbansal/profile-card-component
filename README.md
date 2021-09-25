@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Result](Screenshot 2021-09-25 at 1.56.31 PM.png)
+[Result](./Screenshot 2021-09-25 at 1.56.31 PM.png)
 
 
 ### Links
